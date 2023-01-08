@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 1
+    path: Assets/Scenes/Home.unity
+    guid: fea3b0266469bcf4fa95ee0a2c0f2a3c
+  - enabled: 1
+    path: Assets/Scenes/Courses.unity
+    guid: c5781ab3f66f4994d9687d389ba0f3ef
+  - enabled: 1
+    path: Assets/Scenes/ShowStudents.unity
+    guid: 97f1107ff97e0744d91f909a2d2b42af
+  - enabled: 1
+    path: Assets/Scenes/EditStudent.unity
+    guid: 68f32b81efeca4d4da582dd1503028b3
+  - enabled: 1
+    path: Assets/Scenes/Student.unity
+    guid: c8842e1931c710c4b9e3411f36ed7a29
+  - enabled: 1
+    path: Assets/Scenes/EditCourse.unity
+    guid: 1017d60f2033f094495e9c5e1aba7167
+  - enabled: 1
+    path: Assets/Scenes/New Course.unity
+    guid: 773b7d89289b7d046b7c9c653ceba071
+  m_configObjects: {}

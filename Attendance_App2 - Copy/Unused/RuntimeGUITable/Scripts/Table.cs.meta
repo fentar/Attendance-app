@@ -1,0 +1,34 @@
+fileFormatVersion: 2
+guid: 8cebef2263ac043ac962a2e3a31dd06e
+timeCreated: 1554667108
+licenseType: Store
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - cellContainerPrefab: {fileID: 114527460323194142, guid: 87aa59e3760984c949446ba3eb32d289,
+      type: 2}
+  - emptyCellContainerPrefab: {fileID: 114435339281488434, guid: 1a7f72edb00b542a7a2ac477c970044e,
+      type: 2}
+  - addButtonCellContainerPrefab: {fileID: 114435339281488434, guid: 8e744db8b504949ffb572cb79b46b32a,
+      type: 2}
+  - columnTitlePrefab: {fileID: 114468435212155928, guid: 2febf59f5fcbf441c95520c9942ef88f,
+      type: 2}
+  - deleteCellPrefab: {fileID: 114497950346614230, guid: b1459205566a446a9beef59cfd676360,
+      type: 2}
+  - deleteCellStyle: {instanceID: 0}
+  - deleteCellStyleTemplate: {fileID: 11400000, guid: 1b2404ee1d95b4ae9b7048b851dd5a79,
+      type: 2}
+  - addCellPrefab: {fileID: 114497950346614230, guid: c62b79de663ae44659d184dd67efe6e4,
+      type: 2}
+  - addCellStyle: {instanceID: 0}
+  - addCellStyleTemplate: {fileID: 11400000, guid: 0f487a7a127b5496b92216697ba48a37,
+      type: 2}
+  - titleFont: {fileID: 10102, guid: 0000000000000000e000000000000000, type: 0}
+  - outlineSprite: {fileID: 21300000, guid: 310ba3887979b42a4a83ff543427c7f6, type: 3}
+  - scrollViewPrefab: {fileID: 114822867056402814, guid: bd80bedaea2194e10874151f897e8bf5,
+      type: 2}
+  executionOrder: -100
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
